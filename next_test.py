@@ -2,5 +2,6 @@ print("Hier teste ich ceränderungen und commits")
 
 a = 2
 b = 4
+c = a + b
 
-print(a + b)
+print(c + b)
